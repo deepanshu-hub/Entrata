@@ -4,11 +4,10 @@ This project utilizes Selenium and Java to automate interactions with the Entrat
 
 # Prerequisites
 ## Ensure the following software and dependencies are installed on your machine:
-Java (version 8 or higher)
-
-Selenium WebDriver
-
-ChromeDriver
+1. Java (version 8 or higher)
+2. Maven
+3. Selenium WebDriver
+4. ChromeDriver
 
 ## Installation
 1. Clone the repository to your local machine.
